@@ -37,9 +37,7 @@ Created insightful visualizations including:
 - **Correlation Matrix:** Revealed complex interrelationships between happiness-related variables.
 
 ## Tools & Technical Skills:
-- **Programming Languages:** Python, R
-
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
+- **Programming Languages:** R
 
 - **Techniques:** Exploratory Data Analysis, Principal Component Analysis, Logarithmic Transformation, Linear Regression, Data Visualization
 
